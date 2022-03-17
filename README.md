@@ -1,8 +1,8 @@
 ## Olá! Eu sou o João Silva
 
-- 👨‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas e tenho como objetivo atuar como um Desenvolvedor Back-End
+- 👨‍💻 Sou estudante de Engenharia de Software e tenho como objetivo atuar como um Desenvolvedor Back-End
 - 🤓 Gosto de tecnologia, e tudo que envolve desenvolvimento de software.
-- 🚀 Atualmente estou estudando Java
+- 🚀 Atualmente estou estudando Java | Python
 
 ##
 
